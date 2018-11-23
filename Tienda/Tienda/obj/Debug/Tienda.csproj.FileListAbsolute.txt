@@ -1,0 +1,5 @@
+C:\Users\micha\Desktop\proyectos\Tienda almacen\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\micha\Desktop\proyectos\Tienda almacen\Tienda\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\proyectos\Tienda almacen\Tienda\Tienda\obj\Debug\Tienda.Ventas.resources
+C:\Users\micha\Desktop\proyectos\Tienda almacen\Tienda\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\micha\Desktop\proyectos\Tienda almacen\Tienda\Tienda\obj\Debug\Tienda.csproj.GenerateResource.Cache
